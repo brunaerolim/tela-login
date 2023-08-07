@@ -16,5 +16,5 @@ npm install -g live-server
 ### Execute o projeto:
 
 ```bash
-live-server .
+live-server
 ```
