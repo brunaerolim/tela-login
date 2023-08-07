@@ -10,7 +10,7 @@
 ### Instale o LiveServer:
 
 ```bash
-npm install -g live-server
+install live-server
 ```
 
 ### Execute o projeto:
